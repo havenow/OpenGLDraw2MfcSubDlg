@@ -1,2 +1,2 @@
-# OpenGLDraw2MfcSubDlg
+
 MFC子对话框中OpenGL纹理贴图
